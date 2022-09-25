@@ -44,7 +44,7 @@
 | ------------| ------------- |  -->
 
 <!-- Test section -->
-| [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&theme=github_dark&show_icons=true)](https://github.com/rudrakshkarpe) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=highcontrast)](https://github.com/rudrakshkarpe)  |
+| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushantborde391&theme=github_dark&show_icons=true)](https://github.com/Sushantborde391) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushantborde391&theme=highcontrast)](https://github.com/Sushantborde391)  |
 | ------------| ------------- |  
 
 <!-- -->
@@ -54,7 +54,7 @@
 | ---- | ---- | -->
 
 
- [![Rudraksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudrakshkarpe&theme=react-dark	)](http://github.com/rudrakshkarpe)
+ [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sushantborde391&theme=react-dark	)](http://github.com/Sushantborde391)
 
 **_Last updated: 14/09/2022_**
 
