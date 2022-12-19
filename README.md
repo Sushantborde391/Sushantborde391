@@ -9,7 +9,7 @@
 | ------------| ------------- |  
 
 
- [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sushantborde391&theme=react-dark	)](http://github.com/Sushantborde391)
+<!--  [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sushantborde391&theme=react-dark	)](http://github.com/Sushantborde391) -->
 
 **_Last updated: 14/09/2022_**
 
