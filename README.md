@@ -41,7 +41,11 @@
 ###  📈 GitHub Stats
 
 <!-- | <img src="https://github-readme-stats.vercel.app/api?username=rudrakshkarpe&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkarpe&theme=blueberry_duo"/> |
+
 | ------------| ------------- |  -->
+
+![LinkedIn + GitHub Banner ](https://user-images.githubusercontent.com/78851635/208422827-c9832a61-a154-40b0-bdac-dd58351d33ae.gif)
+
 
 <!-- Test section -->
 | [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushantborde391&theme=github_dark&show_icons=true)](https://github.com/Sushantborde391) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushantborde391&theme=highcontrast)](https://github.com/Sushantborde391)  |
